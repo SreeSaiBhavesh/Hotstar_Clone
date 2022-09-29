@@ -1,3 +1,3 @@
 # Hotstar Clone
-Home page view of Disney Hotstar
+Home page view of Disney+ Hotstar
 
